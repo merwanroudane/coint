@@ -1,0 +1,9 @@
+# requirements.txt
+
+streamlit
+numpy
+pandas
+matplotlib
+plotly
+statsmodels
+pillow
